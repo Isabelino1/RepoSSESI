@@ -1,0 +1,14 @@
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\bin\Debug\netcoreapp2.1\WebApiSSESI.deps.json
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\bin\Debug\netcoreapp2.1\WebApiSSESI.runtimeconfig.json
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\bin\Debug\netcoreapp2.1\WebApiSSESI.runtimeconfig.dev.json
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\bin\Debug\netcoreapp2.1\WebApiSSESI.dll
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.csproj.CoreCompileInputs.cache
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.RazorAssemblyInfo.cache
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.RazorAssemblyInfo.cs
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.AssemblyInfoInputs.cache
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.AssemblyInfo.cs
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.RazorTargetAssemblyInfo.cache
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\bin\Debug\netcoreapp2.1\WebApiSSESI.pdb
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.dll
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.pdb
+C:\Users\Isabelino\Desktop\WebApiSSESI\WebApiSSESI\obj\Debug\netcoreapp2.1\WebApiSSESI.csprojAssemblyReference.cache
